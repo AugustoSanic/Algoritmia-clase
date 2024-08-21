@@ -1,2 +1,2 @@
 # Algoritmia-clase
-Repositorio sobre la clase de algoritmia y complejidad UFM
+Repositorio para la clase de algoritmia y complejidad UFM
